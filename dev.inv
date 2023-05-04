@@ -1,4 +1,4 @@
 [webservers]
-localhost
+172.31.13.199 ansible_user=ec2-user
 
 
